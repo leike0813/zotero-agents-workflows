@@ -1,0 +1,31 @@
+{
+  "schema": "zotero-agents.content-feed.v1",
+  "feed_id": "zotero-agents-official-dev",
+  "channel": "dev",
+  "debug_content": true,
+  "revision": "1e7f08fba17e89d9ec8853394144ca511fe16dc5",
+  "updated_at": "2026-06-23T17:43:21.132Z",
+  "packages": [
+    {
+      "id": "zotero-agents-official-workflows",
+      "version": "0.1.0",
+      "channel": "dev",
+      "debug_content": true,
+      "content_api": "1.0.0",
+      "requires": {
+        "plugin": ">=0.4.0 <0.5.0",
+        "content_api": "^1.0.0",
+        "zotero": ">=7 <10"
+      },
+      "artifact": {
+        "path": "packages/zotero-agents-official-workflows-0.1.0-dev.zip",
+        "url": "https://github.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.1.0/zotero-agents-official-workflows-0.1.0-dev.zip",
+        "mirrors": [
+          "https://gitee.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.1.0/zotero-agents-official-workflows-0.1.0-dev.zip"
+        ],
+        "sha256": "sha256:ce161ce12c676161082fd49c4a4bf781dd85b9a0d9d90840fce34776b15569a7",
+        "size": 5476143
+      }
+    }
+  ]
+}
