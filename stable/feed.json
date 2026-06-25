@@ -3,8 +3,8 @@
   "feed_id": "zotero-agents-official-stable",
   "channel": "stable",
   "debug_content": false,
-  "revision": "da0735fe452f89859a45572e8887efa55f5638bc",
-  "updated_at": "2026-06-25T11:13:45.614Z",
+  "revision": "88badb34b7479e48dbba02d87e9de7b6ac025304",
+  "updated_at": "2026-06-25T11:31:51.836Z",
   "packages": [
     {
       "id": "zotero-agents-official-workflows",
@@ -23,7 +23,7 @@
         "mirrors": [
           "https://gitee.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.1.0/zotero-agents-official-workflows-0.1.0-stable.zip"
         ],
-        "sha256": "sha256:4007ff546b60fa5c492de5b47db39673eeb2413b48f019c8c1bdea42a374ea89",
+        "sha256": "sha256:ea1614fbd7715f7e7bbdb6e8a070fbeec885c68d0002223822ae3e0072da486f",
         "size": 2827624
       }
     }
