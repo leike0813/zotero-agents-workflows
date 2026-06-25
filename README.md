@@ -1,6 +1,6 @@
 # Zotero Agents Official Workflow Feed
 
-Generated from leike0813/zotero-agents@aebab31c9d31b48bbc0b3637dc693cca57ef1f8f.
+Generated from leike0813/zotero-agents@36873ddd081e5066358762ea5a44e35ee06e5a7b.
 
 Feed URLs:
 
