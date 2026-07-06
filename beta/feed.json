@@ -3,12 +3,12 @@
   "feed_id": "zotero-agents-official-beta",
   "channel": "beta",
   "debug_content": false,
-  "revision": "f60a6eb5a1592ba667ee31795376e0e8c2c4e613",
-  "updated_at": "2026-07-05T17:09:24.159Z",
+  "revision": "d1e7d3f0f222a0382c2a06886aa52e2dc2961e71",
+  "updated_at": "2026-07-06T15:26:22.611Z",
   "packages": [
     {
       "id": "zotero-agents-official-workflows",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "channel": "beta",
       "debug_content": false,
       "content_api": "1.0.0",
@@ -18,13 +18,13 @@
         "zotero": ">=7 <10"
       },
       "artifact": {
-        "path": "packages/zotero-agents-official-workflows-0.3.0-beta.zip",
-        "url": "https://github.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.3.0/zotero-agents-official-workflows-0.3.0-beta.zip",
+        "path": "packages/zotero-agents-official-workflows-0.3.1-beta.zip",
+        "url": "https://github.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.3.1/zotero-agents-official-workflows-0.3.1-beta.zip",
         "mirrors": [
-          "https://gitee.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.3.0/zotero-agents-official-workflows-0.3.0-beta.zip"
+          "https://gitee.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.3.1/zotero-agents-official-workflows-0.3.1-beta.zip"
         ],
-        "sha256": "sha256:a9130d3ac9312969a345380643579591934ba348c13189e7248f4f4a4f84e9ed",
-        "size": 3925806
+        "sha256": "sha256:ce9a9b2a2152afbbb9b8acacaf8d5ec7d28f47fc795167f298e2fe3f32eaff8d",
+        "size": 3926133
       }
     }
   ]
