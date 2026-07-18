@@ -3,8 +3,8 @@
   "feed_id": "zotero-agents-official-beta",
   "channel": "beta",
   "debug_content": false,
-  "revision": "860dec9d504d29995183e26b5204a7019a9d767b",
-  "updated_at": "2026-07-18T10:26:27.040Z",
+  "revision": "f51969bc8d5d5d16ba6f211d6dff7b617a047197",
+  "updated_at": "2026-07-18T10:33:49.273Z",
   "packages": [
     {
       "id": "zotero-agents-official-workflows",
@@ -23,7 +23,7 @@
         "mirrors": [
           "https://gitee.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.5.0/zotero-agents-official-workflows-0.5.0-beta.zip"
         ],
-        "sha256": "sha256:426a0250c386b3a2e4257dd2d83096375298aa34c70fc3ea0711bb5c024544b9",
+        "sha256": "sha256:2e9b6427cca65071a27f451c56614917e57a4ce952afec798c91bfe8cb6c27c9",
         "size": 5274987
       }
     }
