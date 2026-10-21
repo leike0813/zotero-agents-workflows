@@ -3,12 +3,12 @@
   "feed_id": "zotero-agents-official-dev",
   "channel": "dev",
   "debug_content": true,
-  "revision": "badacb036fc7fea2af63d360d2cec78b6db09d1a",
-  "updated_at": "2026-10-20T12:22:53.000Z",
+  "revision": "371b9a72d50789887e24dd167b6133b7f8a71b1e",
+  "updated_at": "2026-10-21T06:41:26.000Z",
   "packages": [
     {
       "id": "zotero-agents-official-workflows",
-      "version": "0.8.10-dev.9",
+      "version": "0.8.10-dev.10",
       "channel": "dev",
       "debug_content": true,
       "content_api": "3.0.0",
@@ -18,13 +18,13 @@
         "zotero": ">=7 <11"
       },
       "artifact": {
-        "path": "packages/zotero-agents-official-workflows-0.8.10-dev.9-dev.zip",
-        "url": "https://github.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.8.10-dev.9/zotero-agents-official-workflows-0.8.10-dev.9-dev.zip",
+        "path": "packages/zotero-agents-official-workflows-0.8.10-dev.10-dev.zip",
+        "url": "https://github.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.8.10-dev.10/zotero-agents-official-workflows-0.8.10-dev.10-dev.zip",
         "mirrors": [
-          "https://gitee.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.8.10-dev.9/zotero-agents-official-workflows-0.8.10-dev.9-dev.zip"
+          "https://gitee.com/leike0813/zotero-agents-workflows/releases/download/official-workflows-v0.8.10-dev.10/zotero-agents-official-workflows-0.8.10-dev.10-dev.zip"
         ],
-        "sha256": "sha256:13baa3705fe3c33be56fbbd1301e74e7a7ae17421ebda65ea6359ba3df1e0a37",
-        "size": 5039873
+        "sha256": "sha256:7a956919984216cc12b94953e9a90c3d129a68082a14da55f84cab15afde2053",
+        "size": 5039915
       }
     }
   ]
